@@ -42,3 +42,6 @@ git add session-4-02-ct-2022.md
 git add .
 
 git commit -m "added initial commands"
+
+
+End of INitial Commands
