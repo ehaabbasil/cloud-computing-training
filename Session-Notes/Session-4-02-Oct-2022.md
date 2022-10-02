@@ -45,3 +45,19 @@ git commit -m "added initial commands"
 
 
 End of INitial Commands
+
+2 commits : Local Laptop .git
+1 push : server
+
+# Remote Server
+
+```
+
+git remote -v
+
+```
+
+
+git pull
+
+git pull => get data(fetch) (.git)  from the server and merge with my local workspace folder (.git) folder toworking folder
